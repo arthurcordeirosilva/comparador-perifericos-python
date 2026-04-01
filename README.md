@@ -92,11 +92,13 @@ Interface web com o uso do Tkinter
 ##  Integrantes
 1° Arthur Cordeiro Silva
 
-2° Arthur Felipe
+2° Arthur Felipe Rodrigues
 
 3° Felipe Henrique Ribeiro
 
 4° Igor França Candido
+
+5° Gabriel Alves
 
 ## Considerações Finais
 Este projeto foi planejado com foco em simplicidade e funcionalidade, garantindo a entrega dentro do prazo, ao mesmo tempo em que permite expansão futura para um sistema mais complexo, faxendo o uso de outras tecnologias para aumentar sua performace.
